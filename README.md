@@ -1,2 +1,2 @@
 # Udemy-Data-Analysis-Course
-Projects and exercises done during Udemy course on Data Analysis and Visualisation
+Data Analytics and Machine Learning Projects done during Udemy course on Data Analysis and Visualisation.
